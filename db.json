@@ -1,0 +1,995 @@
+{
+  "cardproduct": [
+    {
+      "h2": "Home Accessories",
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08RDL6H79._SY116_CB667322346_.jpg",
+      "image2": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08345R1ZW._SY116_CB667322346_.jpg",
+      "image4": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B07G5J5FYP._SY116_CB667322346_.jpg",
+      "image3": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/186x116---wm._SY116_CB667322346_.jpg",
+      "p1": "AC",
+      "p2": "Refridgerators",
+      "p3": "Washing Machine",
+      "p4": "Microwave",
+      "id1": 1,
+      "id2": 2,
+      "id3": 3,
+      "id4": 4,
+      "id": "ddec"
+    },
+    {
+      "h2": "Home Products, Furniture, Fashion & Daily Needs ",
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_1._SY116_CB606110532_.jpg",
+      "image2": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_5._SY116_CB606110532_.jpg",
+      "image3": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_3._SY116_CB606110532_.jpg",
+      "image4": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_8._SY116_CB606110532_.jpg",
+      "p1": "Home Products",
+      "p2": "Furniture",
+      "p3": "Daily essentials",
+      "p4": "Fashion",
+      "id1": 5,
+      "id2": 6,
+      "id3": 7,
+      "id4": 8,
+      "id": "4132"
+    },
+    {
+      "h2": "Home Decors ",
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_Week19_186_001._SY116_CB557385001_.jpg",
+      "image2": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/QC_PC_186x116_6_PB._SY116_CB560732407_.jpg",
+      "image3": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/QC_PC_186x116_7_PB._SY116_CB560732407_.jpg",
+      "image4": "https://images-eu.ssl-images-amazon.com/images/G/31/Symbol/2024/PC_QC/1x_spb._SY116_CB580758260_.png",
+      "p1": "Starting ₹179 <br> | Home decor",
+      "p2": "Up to 60% off <br> | Storage & racks",
+      "p3": "Starting ₹99 <br>| Toys & games",
+      "p4": "Jackets, dresses  <br>& more",
+      "id1": 9,
+      "id2": 10,
+      "id3": 11,
+      "id4": 12,
+      "id": "be88"
+    },
+    {
+      "h2": "Curtains, Bedsheets & Home Decor",
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_186_2._SY116_CB558389341_.jpg",
+      "image2": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_186_3._SY116_CB558389341_.jpg",
+      "image3": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_186_4._SY116_CB558389341_.jpg",
+      "image4": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_Week19_186_3._SY116_CB557360085_.jpg",
+      "p1": "Bedsheets",
+      "p2": "Curtains",
+      "p3": "Ironing Boards",
+      "p4": "Home decor",
+      "id1": 13,
+      "id2": 14,
+      "id3": 15,
+      "id4": 16,
+      "id": "de7e"
+    }
+  ],
+  "slider": [
+    {
+      "title": "",
+      "image": "https://m.media-amazon.com/images/I/51tDqySJ9FL._AC_SY200_.jpg",
+      "id": "5f0c"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71tCOhEigtL._AC_SY200_.jpg",
+      "id": "be30"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71tCOhEigtL._AC_SY200_.jpg",
+      "id": "f953"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_SY200_.jpg",
+      "id": "a273"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61u9zN1HYCL._AC_SY200_.jpg",
+      "id": "8cc2"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/6175SlKKECL._AC_SY200_.jpg",
+      "id": "191d"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61aDuZYcrGL._AC_SY200_.jpg",
+      "id": "de94"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61Bbm+EMEyL._AC_SY200_.jpg",
+      "id": "c854"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/6163YUoVh3L._AC_SY200_.jpg",
+      "id": "cec0"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/711zfWJyl5L._AC_SY200_.jpg",
+      "id": "9f17"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/519SapBvj5L._AC_SY200_.jpg",
+      "id": "4f1f"
+    },
+    {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71SjHKm-OtL._AC_UL165_SR165,165_.jpg",
+      "id": "ed05"
+    }
+  ],
+  "cardproduct2": [
+    {
+      "title": "Bean Bags",
+      "image1": "https://m.media-amazon.com/images/I/61em4XfIdEL._AC_UL480_FMwebp_QL65_.jpg",
+      "image2": "https://m.media-amazon.com/images/I/81GlRvn7R5L._AC_UL480_FMwebp_QL65_.jpg",
+      "image3": "https://m.media-amazon.com/images/I/81B0s2Iu09L._AC_UL480_FMwebp_QL65_.jpg",
+      "image4": "https://m.media-amazon.com/images/I/61AwoTfk7gL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "7ba4"
+    },
+    {
+      "title": "Recently Viewed Items",
+      "image1": "https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_SY95_.jpg",
+      "image2": "https://m.media-amazon.com/images/I/61aDuZYcrGL._AC_SY95_.jpg",
+      "image3": "https://m.media-amazon.com/images/I/81ZSn2rk9WL._AC_SY95_.jpg",
+      "image4": "https://m.media-amazon.com/images/I/61TDx6EvTuL._AC_SY95_.jpg",
+      "id": "6dc5"
+    },
+    {
+      "title": "shop & pay | earn reward daily",
+      "image1": "https://m.media-amazon.com/images/I/61CeweKmlLL._AC_SY145_.jpg",
+      "image2": "https://m.media-amazon.com/images/I/71nJCipMRiL._AC_SY145_.jpg",
+      "image3": "https://m.media-amazon.com/images/I/61SKFLoO8JL._AC_SY145_.jpg",
+      "image4": "https://m.media-amazon.com/images/I/61i+HI-zPwL._AC_SY145_.jpg",
+      "id": "5652"
+    },
+    {
+      "title": "Top picks | Up to 60% off",
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/Softlines_JWL_SH_GW_Assets/2024/May/20th/QC_Sports-PC2low._SY116_CB557104859_.jpg",
+      "image2": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/Softlines_JWL_SH_GW_Assets/2024/May/20th/pcqc2-3-low._SY116_CB557104859_.jpg",
+      "image3": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/Softlines_JWL_SH_GW_Assets/2024/May/20th/QC_Watch-PC2low._SY116_CB557104859_.jpg",
+      "image4": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/Softlines_JWL_SH_GW_Assets/2024/May/20th/QC_AT-PCLow._SY116_CB557104859_.jpg",
+      "id": "f29d"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "title": "Product Title 1",
+      "rating": "4.5 ratings",
+      "price": 49.99,
+      "image": "https://via.placeholder.com/300x300"
+    },
+    {
+      "id": "2",
+      "title": "Product Title 2",
+      "rating": "5 ratings",
+      "price": 69.99,
+      "image": "https://via.placeholder.com/300x300"
+    },
+    {
+      "id": "3",
+      "title": "Product Title 3",
+      "rating": "3.5 ratings",
+      "price": 39.99,
+      "image": "https://via.placeholder.com/300x300"
+    }
+  ],
+  "productdata": [
+    {
+      "category": "Mobile-Accessories",
+      "url": "https://m.media-amazon.com/images/I/51iwN+-M-BL._AC_UL320_.jpg",
+      "title": "HTC VIVE Virtual Reality System Tracker 2018 [video game]",
+      "price": "$99.99",
+      "rating": "4.6 out of 5 stars",
+      "id": "be4e"
+    },
+    {
+      "category": "Mobile-Accessories",
+      "url": "https://m.media-amazon.com/images/I/51FnhDnBAoL._AC_UL320_.jpg",
+      "title": "Lava O2 (Royal Gold, 8GB RAM, UFS 2.2 128GB Storage) |AG Glass Back|T616 Octacore Processor|18W Fast Charging|6.5 inch 90Hz Punch Hole Display|50MP AI Dual Camera|Upto 16GB Expandable RAM",
+      "price": "$249.99",
+      "rating": "3.8 out of 5 stars",
+      "id": "cbc7"
+    },
+    {
+      "category": "Mobile-Accessories",
+      "url": "https://m.media-amazon.com/images/I/61wHkeTOhWL._AC_UL320_.jpg",
+      "title": "iQOO Z9x 5G (Tornado Green, 6GB RAM, 128GB Storage) | Snapdragon 6 Gen 1 with 560K+ AnTuTu Score | 6000 mAh Battery with 7.99mm Slim Design | 44W FlashCharge",
+      "price": "$299.99",
+      "rating": "4.5 out of 5 stars",
+      "id": "feb6"
+    },
+    {
+      "category": "Mobile-Accessories",
+      "url": "https://m.media-amazon.com/images/I/61pt59LW-lL._AC_UL320_.jpg",
+      "title": "iQOO Z9 5G (Brushed Green, 8GB RAM, 128GB Storage) | Dimensity 7200 5G Processor | Sony IMX882 OIS Camera | 120Hz AMOLED with 1800 nits Local Peak Brightness | 44W Charger in The Box",
+      "price": "$329.99",
+      "rating": "4.2 out of 5 stars",
+      "id": "1c9e"
+    },
+    {
+      "category": "Mobile-Accessories",
+      "url": "https://m.media-amazon.com/images/I/61sY8BGOyEL._AC_UL320_.jpg",
+      "title": "iQOO Z9x 5G (Storm Grey, 6GB RAM, 128GB Storage) | Snapdragon 6 Gen 1 with 560K+ AnTuTu Score | 6000 mAh Battery with 7.99mm Slim Design | 44W FlashCharge",
+      "price": "$299.99",
+      "rating": "4.5 out of 5 stars",
+      "id": "1cd1"
+    },
+    {
+      "category": "Mobile-Accessories",
+      "url": "https://m.media-amazon.com/images/I/61vtLhO6fDL._AC_UL320_.jpg",
+      "title": "Apple 20W USB-C Power Adapter (for iPhone, iPad & AirPods)",
+      "price": "$19.99",
+      "rating": "4.5 out of 5 stars",
+      "id": "3bbb"
+    },
+    {
+      "category": "Mobile-Accessories",
+      "url": "https://m.media-amazon.com/images/I/41GcNSsstaL._AC_UL320_.jpg",
+      "title": "PopSockets Phone Grip with Expanding Kickstand, Compatible with MagSafe, Magnetic Ring for iPhone and Android Included, Included, Phone Holder, Wireless Charging Compatible - Black",
+      "price": "$14.99",
+      "rating": "4.6 out of 5 stars",
+      "id": "8e68"
+    },
+    {
+      "category": "Mobile-Accessories",
+      "url": "https://m.media-amazon.com/images/I/21uXmiH98wL._AC_UL320_.jpg",
+      "title": "Samsung Original 25W Single Port, Type-C Fast Charger, (Cable not Included), White",
+      "price": "$24.99",
+      "rating": "4.4 out of 5 stars",
+      "id": "9489"
+    },
+    {
+      "category": "Mobile-Accessories",
+      "url": "https://m.media-amazon.com/images/I/81Z1scL6HvL._AC_UL320_.jpg",
+      "title": "Redmi 13C 5G (Startrail Silver, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display",
+      "price": "$199.99",
+      "rating": "4.0 out of 5 stars",
+      "id": "2055"
+    },
+    {
+      "category": "Mobile-Accessories",
+      "url": "https://m.media-amazon.com/images/I/81KFSdWCCEL._AC_UL320_.jpg",
+      "title": "Redmi 13C 5G (Startrail Green, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display",
+      "price": "$199.99",
+      "rating": "4.0 out of 5 stars",
+      "id": "ea1f"
+    },
+    {
+      "category": "Mobile-Accessories",
+      "url": "https://m.media-amazon.com/images/I/71lVwl3q-kL._AC_UL320_.jpg",
+      "title": "MI Power Bank 3i 20000mAh Lithium Polymer 18W Fast Power Delivery Charging | Input- Type C | Micro USB| Triple Output | Black",
+      "price": "$29.99",
+      "rating": "4.2 out of 5 stars",
+      "id": "3ef5"
+    },
+    {
+      "category": "Mobile-Accessories",
+      "url": "https://m.media-amazon.com/images/I/612JxXPJPPL._AC_UL320_.jpg",
+      "title": "iQOO Z9 5G (Graphene Blue, 8GB RAM, 128GB Storage) | Dimensity 7200 5G Processor | Sony IMX882 OIS Camera | 120Hz AMOLED with 1800 nits Local Peak Brightness | 44W Charger in The Box",
+      "price": "$329.99",
+      "rating": "4.2 out of 5 stars",
+      "id": "d74d"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61+pdg8CfmL._AC_UL320_.jpg",
+      "title": "LG 242 L 3 Star Smart Inverter Frost-Free Double Door Refrigerator (GL-I292RPZX, Shiny Steel, Door Cooling+)",
+      "rating": "4.2 out of 5 stars",
+      "price": "₹25,990",
+      "category": "Home-Accessories",
+      "id": "864c"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71dwW6Z3IvL._AC_UL320_.jpg",
+      "title": "Samsung 183 L, 4 Star, Digital Inverter, Direct-Cool Single Door Refrigerator (RR20C1824CR/HL, Red, Camellia Purple, Base Stand Drawer, 2024 Model)",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹16,390",
+      "category": "Home-Accessories",
+      "id": "9556"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71ecWAy-JuL._AC_UL320_.jpg",
+      "title": "Samsung 183 L, 4 Star, Digital Inverter, Direct-Cool Single Door Refrigerator (RR20C1724CU/HL, Camellia Blue, 2024 Model)",
+      "rating": "4.1 out of 5 stars",
+      "price": "₹15,890",
+      "category": "Home-Accessories",
+      "id": "3192"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/51rI+jSqx5L._AC_UL320_.jpg",
+      "title": "Whirlpool 184 L 2 Star Direct-Cool Single Door Refrigerator (205 WDE CLS 2S SAPPHIRE BLUE-Z, Blue,2023 Model)",
+      "rating": "4.1 out of 5 stars",
+      "price": "₹12,590",
+      "category": "Home-Accessories",
+      "id": "9526"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/51FJ-6IDORL._AC_UL320_.jpg",
+      "title": "Haier 165 L, 1 Star, Direct-Cool Single Door Refrigerator (HED-171RS-P, Red Steel, 2024 Model)",
+      "rating": "4.0 out of 5 stars",
+      "price": "₹10,990",
+      "category": "Home-Accessories",
+      "id": "6c45"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71Q46li47mL._AC_UL320_.jpg",
+      "title": "LG 185 L 5 Star Inverter Direct-Cool Single Door Refrigerator (GL-D201ABEU, Blue Euphoria, Base stand with drawer)",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹17,690",
+      "category": "Home-Accessories",
+      "id": "7b76"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71Nat+OuihL._AC_UL320_.jpg",
+      "title": "Samsung 183 L, 3 Star, Digital Inverter, Direct-Cool Single Door Refrigerator (RR20C1723S8/HL, Silver, Elegant Inox, 2024 Model)",
+      "rating": "4.2 out of 5 stars",
+      "price": "₹14,980",
+      "category": "Home-Accessories",
+      "id": "87e2"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/51DWwMapWxL._AC_UL320_.jpg",
+      "title": "Godrej 180 L 2 Star Advanced Capillary Technology, With Jumbo Vegetable Tray Direct Cool Single Door Refrigerator(2023 Model, RD EDGE 205B WRF PP BL, Pep Blue)",
+      "rating": "4.0 out of 5 stars",
+      "price": "₹12,690",
+      "category": "Home-Accessories",
+      "id": "89c1"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61XX9YNEgYL._AC_UL320_.jpg",
+      "title": "Samsung 236 L, 2 Star, Digital Inverter, Frost Free Double Door Refrigerator (RT28C3032GS/HL, Gray Silver, 2024 Model)",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹22,890",
+      "category": "Home-Accessories",
+      "id": "c1fc"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61+pdg8CfmL._AC_UL320_.jpg",
+      "title": "LG 242 L 3 Star Smart Inverter Frost-Free Double Door Refrigerator (GL-I292RPZX, Shiny Steel, Door Cooling+)",
+      "rating": "4.2 out of 5 stars",
+      "price": "₹25,990",
+      "category": "Home-Accessories",
+      "id": "cfed"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61SXsaaM3UL._AC_UL320_.jpg",
+      "title": "LG 185 L 4 Star Inverter Direct-Cool Single Door Refrigerator (2023 Model, GL-D199OSEY, Scarlet Euphoria, Base stand with drawer)",
+      "rating": "4.2 out of 5 stars",
+      "price": "₹16,398",
+      "category": "Home-Accessories",
+      "id": "7bee"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/41DCsatZklL._AC_UL320_.jpg",
+      "title": "Godrej 30 L Qube Personal Standard Single door Cooling Solution (TEC Qube 30L HS Q103, Black)",
+      "rating": "3.8 out of 5 stars",
+      "price": "₹7,790",
+      "category": "Home-Accessories",
+      "id": "e616"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/5134E0Z7iwL._AC_UL320_.jpg",
+      "title": "Whirlpool 184 L 2 Star Direct-Cool Single Door Refrigerator (205 WDE PRM 2S WINE BLOOM-Z, 2023 Model)",
+      "rating": "4.0 out of 5 stars",
+      "price": "₹13,790",
+      "category": "Home-Accessories",
+      "id": "76b5"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/614q1XtcLRL._AC_UL320_.jpg",
+      "title": "Haier 325 L, 3 Star, Convertible 14-in-1 Triple Inverter & Fan Motor Technology, with Display Bottom Mounted Double Door Refrigerator (HEB-333DS-P, Dazzle Steel, 2024 Model)",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹34,990",
+      "category": "Home-Accessories",
+      "id": "22e7"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61WZZLKWG4L._AC_UL320_.jpg",
+      "title": "Samsung 653 L, 3 Star, Frost Free, Double Door, Convertible 5-in-1 Digital Inverter, Side By Side AI Enabled Smart Refrigerator with WiFi (RS76CG8003S9HL, Silver, Refined Inox, 2024 Model)",
+      "rating": "4.2 out of 5 stars",
+      "price": "₹79,990",
+      "category": "Home-Accessories",
+      "id": "76f6"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61+BMogXMnL._AC_UL320_.jpg",
+      "title": "LG 272 L 3 Star Frost-Free Smart Inverter Compressor Double Door Refrigerator (GL-S312SPZX, Shiny Steel, Convertible & Multi Air Flow Cooling, 2023 Model)",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹30,990",
+      "category": "Home-Accessories",
+      "id": "498b"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71ITc4o9BJL._AC_UL320_.jpg",
+      "title": "Samsung 223 L, 3 Star, Digital Inverter, Direct-Cool Single Door Refrigerator (RR24C2823S8/NL, Silver, Elegant Inox, Base Stand Drawer, 2024 Model)",
+      "rating": "4.1 out of 5 stars",
+      "price": "₹18,590",
+      "category": "Home-Accessories",
+      "id": "37e1"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61Y5uNxG+8L._AC_UL320_.jpg",
+      "title": "Whirlpool 184 L 4 Star Inverter Direct-Cool Single Door Refrigerator (205 WDE ROY 4SInv SAPPHIRE FLOWER RAIN-Z, Blue, Base Stand with Drawer, 2023 Model)",
+      "rating": "4.0 out of 5 stars",
+      "price": "₹16,390",
+      "category": "Home-Accessories",
+      "id": "3838"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/51vLVJBQV7L._AC_UL320_.jpg",
+      "title": "Godrej 223 L 3 Star Convertible Freezer 6-In-1, Nano Shield Technology, Inverter Frost Free Double Door Refrigerator(2023 Model, RT EONVALOR 260C RCIF ST RH, Steel Rush)",
+      "rating": "3.9 out of 5 stars",
+      "price": "₹21,990",
+      "category": "Home-Accessories",
+      "id": "e7b0"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61-gYNNmYNL._AC_UL320_.jpg",
+      "title": "Whirlpool 207 L 5 Star Icemagic Pro Inverter Direct-Cool Single Door Refrigerator (230 IMPRO ROY 5S INV SAPPHIRE ABYSS-Z, Base Stand with Drawer, 2023 Model)",
+      "rating": "4.1 out of 5 stars",
+      "price": "₹18,490",
+      "category": "Home-Accessories",
+      "id": "645e"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/51nE-7hk8rL._AC_UL320_.jpg",
+      "title": "Godrej 180 L 4 Star Turbo Cooling Technology, With 24 Days Farm Freshness Direct Cool Single Door Refrigerator(2023 Model, RD EDGENEO 207D THF AQ BL, Aqua Blue)",
+      "rating": "4.2 out of 5 stars",
+      "price": "₹14,990",
+      "category": "Home-Accessories",
+      "id": "3761"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71-pjtR3YkL._AC_UL320_.jpg",
+      "title": "Samsung 183 L, 3 Star, Digital Inverter, Direct-Cool Single Door Refrigerator (RR20C1823U8/HL, Blooming Saffron Blue, Base Stand Drawer, 2024 Model)",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹15,990",
+      "category": "Home-Accessories",
+      "id": "f356"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61KTSu7mEbL._AC_UL320_.jpg",
+      "title": "LG 655 L Frost-Free Inverter Side-By-Side Refrigerator (2023 Model, GL-B257HDSY, Dazzle Steel, Express Freeze | Multi Air-Flow)",
+      "rating": "4.2 out of 5 stars",
+      "price": "₹72,990",
+      "category": "Home-Accessories",
+      "id": "62f2"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71yBtgYwPmL._AC_UL320_.jpg",
+      "title": "LG 224 L 5 Star Direct-Cool Smart Inverter Compressor Single-Door Refrigerator (GL-D241ABCU, Blue Charm, Base stand with Drawer, 2023 Model)",
+      "rating": "4.2 out of 5 stars",
+      "price": "₹21,990",
+      "category": "Home-Accessories",
+      "id": "5e37"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61vIWg0cxfL._AC_UL320_.jpg",
+      "title": "Samsung 183 L, 2 Star, Digital Inverter, Direct-Cool Single Door Refrigerator (RR20C2412GS/NL, Gray Silver, 2024 Model)",
+      "rating": "4.2 out of 5 stars",
+      "price": "₹14,190",
+      "category": "Home-Accessories",
+      "id": "93fb"
+    },
+    {
+      "title": "IFB 8.0 Kg Fully-Automatic Top Loading Washing Machine (TL-SBRS 8.0 KG Aqua, Brown, 2X Power Steam, 4 Years Comprehensive Warranty)",
+      "url": "https://m.media-amazon.com/images/I/619sYCOLeqL._AC_UL320_.jpg",
+      "rating": "4.1 out of 5 stars",
+      "price": "₹27,490",
+      "category": "Home-accessories",
+      "id": "e251"
+    },
+    {
+      "title": "Bosch 8 kg 5 Star Fully-Automatic Front Loading Washing Machine (WAJ28262IN, Silver, AI active water plus, In-Built Heater)",
+      "url": "https://m.media-amazon.com/images/I/71PYcYMxj2L._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹34,900",
+      "category": "Home-accessories",
+      "id": "5976"
+    },
+    {
+      "title": "IFB 7.0 Kg 5 Star Fully Automatic Top Load Washing Machine Aqua Conserve (TL-RES 7.0KG AQUA, Light Grey, Hard Water Wash, 4 Years Comprehensive Warranty)",
+      "url": "https://m.media-amazon.com/images/I/61O5ugi1HuL._AC_UL320_.jpg",
+      "rating": "4.1 out of 5 stars",
+      "price": "₹18,990",
+      "category": "Home-accessories",
+      "id": "cba8"
+    },
+    {
+      "title": "Samsung 7 kg Fully-Automatic Top Loading Washing Machine (WA70A4002GS/TL, Imperial Silver)",
+      "url": "https://m.media-amazon.com/images/I/510mV2GAtkL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹15,690",
+      "category": "Home-accessories",
+      "id": "3baa"
+    },
+    {
+      "title": "LG 8 Kg 5 Star Inverter TurboDrum Fully Automatic Top Loading Washing Machine (T80SKSF1Z, Waterfall Circulation, Digital Display, Middle Free Silver)",
+      "url": "https://m.media-amazon.com/images/I/71hNjwzeXUL._AC_UL320_.jpg",
+      "rating": "4.2 out of 5 stars",
+      "price": "₹18,990",
+      "category": "Home-accessories",
+      "id": "6cdd"
+    },
+    {
+      "title": "LG 7 Kg 5 Star Inverter Touch panel Fully-Automatic Front Load Washing Machine with In-Built Heater (FHM1207SDM, Middle Black, Steam for Hygiene Wash)",
+      "url": "https://m.media-amazon.com/images/I/71msFUl565L._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹28,990",
+      "category": "Home-accessories",
+      "id": "1526"
+    },
+    {
+      "title": "LG 7 Kg 5 Star Wind Jet Dry Semi-Automatic Top Loading Washing Machine (P7020NGAZ, Dark Gray, Rat Away Feature)",
+      "url": "https://m.media-amazon.com/images/I/71o4XEEvEVL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹11,490",
+      "category": "Home-accessories",
+      "id": "a505"
+    },
+    {
+      "title": "Samsung 8 kg, 5 star, Eco Bubble Tech, Digital Inverter Motor, Soft Closing Door, Fully-Automatic Top Load Washing Machine (WA80BG4441BGTL, Light Gray)",
+      "url": "https://m.media-amazon.com/images/I/710856sW9pL._AC_UL320_.jpg",
+      "rating": "4.0 out of 5 stars",
+      "price": "₹18,990",
+      "category": "Home-accessories",
+      "id": "78e7"
+    },
+    {
+      "title": "Samsung 7 kg, Eco Bubble Techn, Digital Inverter Motor, Soft Closing Door, Fully-Automatic Top Load Washing Machine (WA70BG4441YYTL, Lavender Gray)",
+      "url": "https://m.media-amazon.com/images/I/71crxH86nRL._AC_UL320_.jpg",
+      "rating": "4.1 out of 5 stars",
+      "price": "₹17,490",
+      "category": "Home-accessories",
+      "id": "4f40"
+    },
+    {
+      "title": "Whirlpool 7 Kg 5 Star Royal Fully-Automatic Top Loading Washing Machine (WHITEMAGIC ROYAL 7.0 GENX, Grey, Hard Water Wash, ZPF Technology)",
+      "url": "https://m.media-amazon.com/images/I/61iQRax3uyL._AC_UL320_.jpg",
+      "rating": "4.1 out of 5 stars",
+      "price": "₹15,390",
+      "category": "Home-accessories",
+      "id": "ab02"
+    },
+    {
+      "title": "LG 6.5 Kg 5 Star Inverter Direct Drive Fully Automatic Front Load Washing Machine Appliance (FHM1065SDW, Steam Wash, In-Built Heater, Touch Panel, White)",
+      "url": "https://m.media-amazon.com/images/I/713FPPHG-XL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹24,990",
+      "category": "Home-accessories",
+      "id": "c100"
+    },
+    {
+      "title": "Samsung 7 kg, 5 star, Semi-Automatic Washing Machine (WT70M3000UU/TL, Air Turbo Drying, LIGHT GRAY)",
+      "url": "https://m.media-amazon.com/images/I/71hGWUGXkqL._AC_UL320_.jpg",
+      "rating": "4.2 out of 5 stars",
+      "price": "₹10,490",
+      "category": "Home-accessories",
+      "id": "f68f"
+    },
+    {
+      "title": "IFB 6.5 Kg 5 Star Fully Automatic Top Load Washing Machine Aqua Conserve (TL-REW 6.5KG AQUA, White, Hard Water Wash, 4 Years Comprehensive Warranty)",
+      "url": "https://m.media-amazon.com/images/I/61CH5bFxAlL._AC_UL320_.jpg",
+      "rating": "4.2 out of 5 stars",
+      "price": "₹17,590",
+      "category": "Home-accessories",
+      "id": "c84f"
+    },
+    {
+      "title": "Samsung 28L, Convection Microwave Oven with Curd Making(MC28A5013AK/TL, Black, 10 Yr warranty)",
+      "url": "https://m.media-amazon.com/images/I/71MCCZu4TLL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹12,490",
+      "category": "Home-Accessories",
+      "id": "f266"
+    },
+    {
+      "title": "Samsung 21L, Convection Microwave Oven with Triple Distribution System(CE73JD-B1/XTL, Black, 10 Yr warranty, Gift for Every Occasion)",
+      "url": "https://m.media-amazon.com/images/I/71DraL4iGjL._AC_UL320_.jpg",
+      "rating": "4.2 out of 5 stars",
+      "price": "₹10,490",
+      "category": "Home-Accessories",
+      "id": "461b"
+    },
+    {
+      "title": "Panasonic 20L Solo Microwave Oven (NN-SM25JBFDG,Black)",
+      "url": "https://m.media-amazon.com/images/I/618hSd40v6L._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹5,690",
+      "category": "Home-Accessories",
+      "id": "9b0e"
+    },
+    {
+      "title": "Panasonic 20L Solo Microwave Oven (NN-ST26JMFDG, Silver, 51 Auto Menus)",
+      "url": "https://m.media-amazon.com/images/I/61Md+j4GC3L._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹5,990",
+      "category": "Home-Accessories",
+      "id": "aa77"
+    },
+    {
+      "title": "Samsung 28L, Convection Microwave Oven with Curd Making(MC28A5013AK/TL, Black, 10 Yr warranty)",
+      "url": "https://m.media-amazon.com/images/I/71MCCZu4TLL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹12,490",
+      "category": "Home-Accessories",
+      "id": "e015"
+    },
+    {
+      "title": "Panasonic 20L Solo Microwave Oven (NN-SM25JBFDG,Black)",
+      "url": "https://m.media-amazon.com/images/I/618hSd40v6L._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹5,690",
+      "category": "Home-Accessories",
+      "id": "82fd"
+    },
+    {
+      "title": "Whirlpool 20 L Solo Microwave Oven (MAGICOOK PRO 20SE BLACK)",
+      "url": "https://m.media-amazon.com/images/I/61VulHBlOkL._AC_UL320_.jpg",
+      "rating": "4.0 out of 5 stars",
+      "price": "₹6,590",
+      "category": "Home-Accessories",
+      "id": "5844"
+    },
+    {
+      "title": "LG 20 L Grill Microwave Oven (MH2044DB, Black)",
+      "url": "https://m.media-amazon.com/images/I/713r4JDmsQL._AC_UL320_.jpg",
+      "rating": "4.2 out of 5 stars",
+      "price": "₹7,990",
+      "category": "Home-Accessories",
+      "id": "7c54"
+    },
+    {
+      "title": "IFB 25 L Solo Microwave Oven (25PM2S, IFBJ0, Silver)",
+      "url": "https://m.media-amazon.com/images/I/819s6STd6pL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹7,640",
+      "category": "Home-Accessories",
+      "id": "4819"
+    },
+    {
+      "title": "Panasonic 23L Convection Microwave Oven(NN-CT353BFDG,Black Mirror, 360° Heat Wrap, Magic Grill)",
+      "url": "https://m.media-amazon.com/images/I/61Wt846zGOL._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "price": "₹12,999",
+      "category": "Home-Accessories",
+      "id": "91fa"
+    },
+    {
+      "title": "IFB 30 L Convection Microwave Oven (30BRC2, Black, With Starter Kit), Standard",
+      "url": "https://m.media-amazon.com/images/I/71IWpC2j2kL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹15,490",
+      "category": "Home-Accessories",
+      "id": "fcd8"
+    },
+    {
+      "title": "Samsung 21L, Convection Microwave Oven with Triple Distribution System(CE73JD-B1/XTL, Black, 10 Yr warranty, Gift for Every Occasion)",
+      "url": "https://m.media-amazon.com/images/I/71DraL4iGjL._AC_UL320_.jpg",
+      "rating": "4.2 out of 5 stars",
+      "price": "₹10,490",
+      "category": "Home-Accessories",
+      "id": "d53a"
+    },
+    {
+      "title": "Panasonic 20L Solo Microwave Oven (NN-ST26JMFDG, Silver, 51 Auto Menus)",
+      "url": "https://m.media-amazon.com/images/I/61Md+j4GC3L._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹5,990",
+      "category": "Home-Accessories",
+      "id": "806b"
+    },
+    {
+      "title": "Bajaj MTBX 2016 20L Grill Microwave Oven, Black",
+      "url": "https://m.media-amazon.com/images/I/71ITInjy-FL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹5,790",
+      "category": "Home-Accessories",
+      "id": "cf09"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61pzTsT7ZgL._AC_UL320_.jpg",
+      "title": "Daikin 1.5 Ton 3 Star Inverter Split AC (Copper, PM 2.5 Filter, Triple Display, Dew Clean Technology, Coanda Airflow, 2023 Model, MTKL50U, White)",
+      "price": "₹36,990",
+      "rating": "3.9 out of 5 stars",
+      "category": "Home-Accessories",
+      "id": "1299"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61HuUBy7XIL._AC_UL320_.jpg",
+      "title": "Daikin 1.5 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, 2023 Model, MTKM50U, White)",
+      "price": "₹45,490",
+      "rating": "3.8 out of 5 stars",
+      "category": "Home-Accessories",
+      "id": "023d"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/314HZjxgjUL._AC_UL320_.jpg",
+      "title": "Lloyd 1.0 Ton 5 Star Inverter Split AC (5 in 1 Convertible, Copper, Anti-Viral + PM 2.5 Filter, 2023 Model, White with Chrome Deco Strip, GLS12I5FWBEV)",
+      "price": "₹34,490",
+      "rating": "4.0 out of 5 stars",
+      "category": "Home-Accessories",
+      "id": "f258"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61mOVGinDdL._AC_UL320_.jpg",
+      "title": "Daikin 0.8 Ton 3 Star, Fixed Speed Split AC (Copper, PM 2.5 Filter, 2022 Model, FTL28U, White)",
+      "price": "₹25,990",
+      "rating": "3.8 out of 5 stars",
+      "category": "Home-Accessories",
+      "id": "626b"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61hrzDc3aTL._AC_UL320_.jpg",
+      "title": "Voltas 1.5 Ton 3 Star, Fixed Speed Window AC (Copper, Turbo Mode, 2023 Model, 183 Vectra Pearl, White)",
+      "price": "₹33,990",
+      "rating": "4.0 out of 5 stars",
+      "category": "Home-Accessories",
+      "id": "051b"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61HuUBy7XIL._AC_UL320_.jpg",
+      "title": "Daikin 1 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, 2022 Model, MTKM35U, White)",
+      "price": "₹38,990",
+      "rating": "3.6 out of 5 stars",
+      "category": "Home-Accessories",
+      "id": "6d34"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/514eo-YCCNL._AC_UL320_.jpg",
+      "title": "Carrier 1 Ton 3 Star AI Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling,Dual Filtration with HD & PM 2.5 Filter, Auto Cleanser, 2023 Model,ESTER Exi - CAI12ER3R33F0,White)",
+      "price": "₹29,999",
+      "rating": "3.5 out of 5 stars",
+      "category": "Home-Accessories",
+      "id": "969d"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/51zYhtpL1gL._AC_UL320_.jpg",
+      "title": "Voltas 1.5 Ton 3 Star, Inverter Split AC(Copper, 4-in-1 Adjustable Mode, Anti-dust Filter, 2023 Model, 183V Vectra Pride, White)",
+      "price": "₹54,990",
+      "rating": "4.0 out of 5 stars",
+      "category": "Home-Accessories",
+      "id": "218e"
+    },
+    {
+      "title": "Men's Regular Fit T-Shirt",
+      "url": "https://m.media-amazon.com/images/I/91xrKdLxNOL._AC_UL320_.jpg",
+      "ratings": "4.0 out of 5 stars",
+      "price": "₹799",
+      "category": "Daily-Needs",
+      "id": "7be0"
+    },
+    {
+      "title": "Everyday Lift Up Bra for Women| Full Coverage | Non Padded | Non Wired | Cotton Stretch",
+      "url": "https://m.media-amazon.com/images/I/71I9qKHLzyL._AC_UL320_.jpg",
+      "ratings": "4.4 out of 5 stars",
+      "price": "₹999",
+      "category": "Daily-Needs",
+      "id": "7f69"
+    },
+    {
+      "title": "Girl's Regular Fit T-Shirt",
+      "url": "https://m.media-amazon.com/images/I/81xQtuhiznL._AC_UL320_.jpg",
+      "ratings": "4.1 out of 5 stars",
+      "price": "₹1,798",
+      "category": "Daily-Needs",
+      "id": "b735"
+    },
+    {
+      "title": "Boy's Baby- 100% Soft & Pure Cotton Long Sleeve Stylish Comfy Printed Regular Fit T-Shirts (Pack of 5)",
+      "url": "https://m.media-amazon.com/images/I/81uOU-hTm3L._AC_UL320_.jpg",
+      "ratings": "4.1 out of 5 stars",
+      "price": "₹3,095",
+      "category": "Daily-Needs",
+      "id": "121b"
+    },
+    {
+      "title": "Men's Sports Shorts I Quick to Dry (Running I Gym I Workout)",
+      "url": "https://m.media-amazon.com/images/I/619Oww01FNL._AC_UL320_.jpg",
+      "ratings": "4.3 out of 5 stars",
+      "price": "₹1,399",
+      "category": "Daily-Needs",
+      "id": "4422"
+    },
+    {
+      "title": "Women Cotton Relaxed Fit Palazzo",
+      "url": "https://m.media-amazon.com/images/I/81NMdgiFgXL._AC_UL320_.jpg",
+      "ratings": "4.0 out of 5 stars",
+      "price": "₹1,999",
+      "category": "Daily-Needs",
+      "id": "b1fa"
+    },
+    {
+      "title": "Women's Rayon Shirt and Pajama Set Night Suit Set",
+      "url": "https://m.media-amazon.com/images/I/71OduKf4d8L._AC_UL320_.jpg",
+      "ratings": "5.0 out of 5 stars",
+      "price": "₹2,499",
+      "category": "Daily-Needs",
+      "id": "160d"
+    },
+    {
+      "title": "Women's High Waist Full Length Cargo Jeans",
+      "url": "https://m.media-amazon.com/images/I/71PLcqDXS3L._AC_UL320_.jpg",
+      "ratings": "4.2 out of 5 stars",
+      "price": "₹2,399",
+      "category": "Daily-Needs",
+      "id": "a33f"
+    },
+    {
+      "title": "Oversized T-Shirts for Women's | Cotton Stretch | Front & Back Print | Loose T-Shirt | Combo (Pack of 2)",
+      "url": "https://m.media-amazon.com/images/I/71I-EZB--YL._AC_UL320_.jpg",
+      "ratings": "4.1 out of 5 stars",
+      "price": "₹1,799",
+      "category": "Daily-Needs",
+      "id": "8964"
+    },
+    {
+      "title": "Women's Rayon Relaxed Fit Palazzo",
+      "url": "https://m.media-amazon.com/images/I/6192wjbt7xL._AC_UL320_.jpg",
+      "ratings": "5.0 out of 5 stars",
+      "price": "₹1,699",
+      "category": "Daily-Needs",
+      "id": "2887"
+    },
+    {
+      "title": "Everyday Bra for Womens|Full Coverage | Non Padded | Non Wired | Modal Stretch",
+      "url": "https://m.media-amazon.com/images/I/711jYWZ6gKL._AC_UL320_.jpg",
+      "ratings": "4.4 out of 5 stars",
+      "price": "₹999",
+      "category": "Daily-Needs",
+      "id": "f130"
+    },
+    {
+      "title": "Hipster Antibacterial Cotton Stretch | Underwear | Panties for Women Daily Use | Concealed Waistband |Combo Pack (Set of 3)",
+      "url": "https://m.media-amazon.com/images/I/61NA2w4HMQL._AC_UL320_.jpg",
+      "ratings": "4.1 out of 5 stars",
+      "price": "₹1,299",
+      "category": "Daily-Needs",
+      "id": "b1b8"
+    },
+    {
+      "title": "T-Shirt Bra for Womens | Medium Coverage | Padded |Non Wired |Seamless Cups | Cotton Stretch",
+      "url": "https://m.media-amazon.com/images/I/615FsbzckqL._AC_UL320_.jpg",
+      "ratings": "4.5 out of 5 stars",
+      "price": "₹3,499",
+      "category": "Daily-Needs",
+      "id": "a9f5"
+    },
+    {
+      "title": "Women's Cotton Wire Free Casual Padded Bra (AW23-L-WBRA-101-PO1_Wine)",
+      "url": "https://m.media-amazon.com/images/I/710cCAzBZKL._AC_UL320_.jpg",
+      "ratings": "5.0 out of 5 stars",
+      "price": "₹1,399",
+      "category": "Daily-Needs",
+      "id": "60ac"
+    },
+    {
+      "title": "Boy's Polyester Standard Length Jacket",
+      "url": "https://m.media-amazon.com/images/I/71NDUcNoWVL._AC_UL320_.jpg",
+      "ratings": "4.1 out of 5 stars",
+      "price": "₹2,999",
+      "category": "Daily-Needs",
+      "id": "45e7"
+    },
+    {
+      "title": "Girls Regular Fit Round Neck Full Sleeves Sweatshirts - 100% Soft & Pure Cotton Original Disney Print for Girls",
+      "url": "https://m.media-amazon.com/images/I/71O2V-LCIYL._AC_UL320_.jpg",
+      "ratings": "4.1 out of 5 stars",
+      "price": "₹1,499",
+      "category": "Daily-Needs",
+      "id": "0b74"
+    },
+    {
+      "title": "WooDinto Kids Bookshelves for Girls Room Set of Floating Book Shelves for Baby Girl Nursery Wall Decor, 24 Inches Long Wall Mounted Bookshelf for Toddler Kid Child Teens Bedroom (White)",
+      "url": "https://m.media-amazon.com/images/I/71Ld-WyklkL._AC_UY218_.jpg",
+      "rating": "3.6 out of 5 stars",
+      "price": "₹799",
+      "category": "Daily-Needs",
+      "id": "a052"
+    },
+    {
+      "title": "Swiner 4XL Bean Bag Cover with Footrest with Cushion Ready to Use Without Beans (Faux Leather) (Royal Blue 4XL)",
+      "url": "https://m.media-amazon.com/images/I/61dmtA9k0ML._AC_UY218_.jpg",
+      "rating": "3.1 out of 5 stars",
+      "price": "₹999",
+      "category": "Daily-Needs",
+      "id": "2496"
+    },
+    {
+      "title": "NOYOTA Wall Mounted Stand for Set Top Box, Wall Hanging Storage Shelf/Cabinet/Rack for Home, Bedroom, Living Room – Brown",
+      "url": "https://m.media-amazon.com/images/I/517CIi98BOL._AC_UY218_.jpg",
+      "rating": "3.0 out of 5 stars",
+      "price": "₹1,798",
+      "category": "Daily-Needs",
+      "id": "c525"
+    },
+    {
+      "title": "ETIQUETTE ART Footstool Rectangle,Velvet Soft Footrest with Wood Legs,Sofa Footrest Extra Seating for Living Room Small Step Stool for Living Room Couch Pets (Black)",
+      "url": "https://m.media-amazon.com/images/I/71-TOwOfuaL._AC_UY218_.jpg",
+      "rating": "4.0 out of 5 stars",
+      "price": "₹3,095",
+      "category": "Daily-Needs",
+      "id": "1676"
+    },
+    {
+      "title": "Hoodwin Wooden Wall Shelves | Corner Hanging Shelf for Living Room Stylish | Zig Zag Home Decor Floating Display Rack Storage Organizer Unique Design with Finish 5 Tiers (Brown Finish)",
+      "url": "https://m.media-amazon.com/images/I/81I0uvHhsgL._AC_UY218_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "price": "₹1,399",
+      "category": "Daily-Needs",
+      "id": "e180"
+    },
+    {
+      "title": "Daim Beautiful Antique Wooden fold-able Side Table/end Table/Plant Stand/Stool Living Room Kids Play Furniture Table Sunflower Shape",
+      "url": "https://m.media-amazon.com/images/I/81eNGOy8qoL._AC_UY218_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "price": "₹1,999",
+      "category": "Daily-Needs",
+      "id": "3c5b"
+    },
+    {
+      "title": "SWANKY Wooden Bar Serving Cart Trolley MDF Wooden Double-Layer Movable Tables Wheels",
+      "url": "https://m.media-amazon.com/images/I/51PivP1I1pL._AC_UY218_.jpg",
+      "rating": "3.2 out of 5 stars",
+      "price": "₹2,499",
+      "category": "Daily-Needs",
+      "id": "c909"
+    },
+    {
+      "title": "ComfyBean Bag with Beans Filled 4XL Bean Bag with Free Cushion and Footrest - Official : CustomCoziness Combo (Matching Color : Printed, Sports - H - Black Green), Faux Leather",
+      "url": "https://m.media-amazon.com/images/I/51lG6GAe5BL._AC_UY218_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "price": "₹2,399",
+      "category": "Daily-Needs",
+      "id": "f8f6"
+    },
+    {
+      "title": "GUL DECOR Macrame Wall Hanging Shelf, Decorative Handmade Floating Wooden Shelve, Hand Woven Items for Living Room Bed Room, Gift Item Kitchen, Size 12 x 5 x 24 Inch,Off White, 1-Pcs, GD-27",
+      "url": "https://m.media-amazon.com/images/I/61Xjtrl1bKL._AC_UY218_.jpg",
+      "rating": "3.2 out of 5 stars",
+      "price": "₹1,799",
+      "category": "Daily-Needs",
+      "id": "7871"
+    },
+    {
+      "title": "Super Mart Decoration,Small Wall Shelve, Big Wall Shelve,Book Stand, Book Shelf,Showpiece Holder,Showpiece Stand For Living Room,Trophies, Engineered Wood",
+      "url": "https://m.media-amazon.com/images/I/512d0tD4JUL._AC_UY218_.jpg",
+      "rating": "3.3 out of 5 stars",
+      "price": "₹1,699",
+      "category": "Daily-Needs",
+      "id": "6427"
+    },
+    {
+      "title": "Daim Beautiful Wooden Fold-Able Side Table/End Table/Coffee Table/Center Table/Plant Stand/Bed Side Table/Snack Serving Table/Stool/Living Room Furniture",
+      "url": "https://m.media-amazon.com/images/I/71Zjj485zzL._AC_UY218_.jpg",
+      "rating": "3.7 out of 5 stars",
+      "price": "₹999",
+      "category": "Daily-Needs",
+      "id": "8881"
+    },
+    {
+      "title": "CraftsX2Z Handmade Wooden Outdoor Adirondack 13 Inch Natural Brown Square Foldable Coffee Table, Patio End Table for Poolside Garden, Living Room, Bedroom, Small Spaces",
+      "url": "https://m.media-amazon.com/images/I/519BKVV1yRL._AC_UY218_.jpg",
+      "rating": "3.8 out of 5 stars",
+      "price": "₹1,299",
+      "category": "Daily-Needs",
+      "id": "add4"
+    },
+    {
+      "title": "ETIQUETTE ART Wooden Floating Wall Shelf with 4 Shelves - MDF Wall Mounted Shelf for Living Room, Bedroom, Office Decor - Display Rack for Books, Kitchen Wall Storage Unit (White)",
+      "url": "https://m.media-amazon.com/images/I/71-iln9DENL._AC_UY218_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "price": "₹3,499",
+      "category": "Daily-Needs",
+      "id": "0276"
+    }
+  ],
+  "cart": [
+    {
+      "id": "9138",
+      "title": "Redmi 13C 5G (Startrail Green, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display",
+      "price": "$199.99",
+      "image": "https://m.media-amazon.com/images/I/81KFSdWCCEL._AC_UL320_.jpg",
+      "rating": "4.0 out of 5 stars"
+    }
+  ]
+}
